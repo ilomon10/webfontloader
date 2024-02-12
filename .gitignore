@@ -4,3 +4,6 @@ target
 tmp
 _site
 pkg
+
+Gemfile.lock
+package-lock.json
